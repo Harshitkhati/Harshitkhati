@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Harshitkhati
+- 👋 Hi, I’m @Harshitkumar
 - 👀 I’m interested in coding & web devlopment
 - 🌱 I’m currently learning Bechlor of computer application
 - 💞️ I’m looking to collaborate on ...
