@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding & web devlopment
 - 🌱 I’m currently learning Bechlor of computer application
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me contact:-khatiharshit0@gmail.com
+- 📫 How to reach me contact:-harshitkumar1026@gmail.com
 
 <!---
 Harshitkhati/Harshitkhati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
